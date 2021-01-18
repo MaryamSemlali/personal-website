@@ -124,6 +124,13 @@ const database = {
       imageUrl: "/images/github-logo.jpg",
       url: 'https://github.com/MaryamSemlali/crocodile-api'
     },
+    {
+      id: 5,
+      title: "Search engine",
+      subtitle: "Simple search engine to search for different people with their names in an input. ",
+      imageUrl: "/images/github-logo.jpg",
+      url: 'https://github.com/MaryamSemlali/search-engine'
+    },
 
   ],
   experience: {
