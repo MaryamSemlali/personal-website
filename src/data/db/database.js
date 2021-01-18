@@ -112,11 +112,19 @@ const database = {
     },
     {
       id: 3,
+      title: "Movies management",
+      subtitle: "a simple template for movies management with NodeJS and ReactJS",
+      imageUrl: "/images/github-logo.jpg",
+      url: 'https://github.com/MaryamSemlali/movies-management'
+    },
+    {
+      id: 4,
       title: "Crocodile API",
       subtitle: "User management API under developement ",
       imageUrl: "/images/github-logo.jpg",
       url: 'https://github.com/MaryamSemlali/crocodile-api'
-    }
+    },
+
   ],
   experience: {
     workingExperience: [
